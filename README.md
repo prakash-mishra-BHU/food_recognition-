@@ -2,4 +2,4 @@
 we use mask-RCNN model to recognition of give food item.
 
 Data that we used , have COCO format annotation.
-![alt text](http://url/to/foodrecognition Poster.png)
+![alt text](http://url/to/foodrecognition_Poster.png)
